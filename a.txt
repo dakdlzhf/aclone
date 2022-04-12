@@ -1,3 +1,4 @@
 클론 연습
 클론에서 push
 hub 에서 작성함
+클론에서 hub pull 하고 다시 push
